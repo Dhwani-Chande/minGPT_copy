@@ -147,3 +147,7 @@ Papers + some implementation notes:
 ### License
 
 MIT
+
+### Git Lab
+
+This repository is being used to practice Git branching, merging, and pull requests.
