@@ -151,5 +151,3 @@ MIT
 ### Git Lab
 
 This repository is being used to practice Git branching, merging, and pull requests.
-
-DEBUG: This line was added intentionally for the revert exercise.
