@@ -1,6 +1,7 @@
 
 # minGPT
-A compact PyTorch implementation of the GPT architecture.
+A lightweight educational PyTorch implementation of the GPT architecture.
+This repository is designed for learning and experimentation.
 
 ![mingpt](mingpt.jpg)
 
