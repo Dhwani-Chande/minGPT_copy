@@ -1,5 +1,6 @@
 
 # minGPT
+A lightweight educational implementation of GPT using PyTorch.
 
 ![mingpt](mingpt.jpg)
 
