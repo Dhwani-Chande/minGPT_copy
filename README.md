@@ -1,5 +1,6 @@
 
 # minGPT
+A compact PyTorch implementation of the GPT architecture.
 
 ![mingpt](mingpt.jpg)
 
